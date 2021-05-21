@@ -1,8 +1,8 @@
 # PharmaDashApp
 
-PharmaDash is the app that will provide you with your necessary medicinal needs. Through the use of crowd-sourcing functionality, all the deliveries and orders are placed by customers, which will allow rapid access. Anyone qualified to drive can potentially become a driver, and anyone can order the medication. Teenagers, sick parents and senior citizens will most likely be the primary users of the app, but any individual can request. The medicine will STRICTLY be limited to Schedule 4: over the counter medication, which falls under the regulation as settled by the Alberta College of Pharmacists.
+PharmaDash is the app that will provide you with your necessary medicinal needs. Through the use of crowd-sourcing functionality, all the deliveries and orders are placed by customers, which will allows rapid access. Anyone qualified to drive can potentially become a driver, and anyone can order the medication. Teenagers, sick parents, and senior citizens will most likely be the primary users of the app, but any individual can request. The medicine will STRICTLY be limited to Schedule 4: over the counter medication, which falls under regulation as settled by the Alberta College of Pharmacists.
 
-It all just starts with the touch of a screen. Imagine a frigid blizzard blistering through your city. All alone in your house with a bad case of the cold, you are in desperate need of medication. Prior to PharmaDash, you would have either had to get the medication delivered to you by a family member, or you would have taken the case into your own hands. According to surveys conducted, driving with a common cold is equivalent to having a double whiskey.  With PharmaDash, this problem fades away, similar to your cold after taking the medication.
+It all just starts with the touch of a screen. Imagine a frigid blizzard blistering through your city. All alone in your house with a bad case of the cold, you are in desperate need of medication. Prior to PharmaDash, you would have either had to get the medication delivered to you by a family member, or you would have taken the case into your own hands. According to surveys conducted, driving with a common cold is equivalent to driving having drank a double whiskey.  With PharmaDash, this problem fades away, similar to your cold after taking the medication.
 
 <p align="center">
   <img src="login_screen.png" alt="drawing" class="center"/>
@@ -18,7 +18,7 @@ The first step in getting your medication is to create an account by entering yo
 <p align="center"> Central hub of the app for customers </p>
 
 
- Here, you will be presented with the option of choosing your desired medication.  The option of choosing a specific pharmacy to take advantage of discounts is also integrated into the app. From here, the app will choose the closest driver though precise algorithmic calculations. The driver will then travel to the chosen pharmacy, pick up the medication and then deliver it to your house. It's as easy as that.
+Here, you will be presented with the option of choosing your desired medication.  The option of choosing a specific pharmacy to take advantage of discounts is also integrated into the app. From here, the app will choose the closest driver though precise algorithmic calculations. The driver will then travel to the chosen pharmacy, pick up the medication and then deliver it to your house. It's as easy as that.
  
  
 <p align="center">
@@ -35,4 +35,4 @@ The payment is also another component that we have been working hard on to ensur
 <p align="center"> Previous ride history screen </p>
 
 
-The process is as easy as it seems. Through seamless integration of google maps and payment methods, PharmaDash will act as your gateway towards healing. 
+The process is as easy as it seems. Through seamless integration of Google Maps and payment methods, PharmaDash will act as your gateway towards healing. 
